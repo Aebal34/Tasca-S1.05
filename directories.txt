@@ -1,0 +1,170 @@
+F: .classpath Last modified: 24/05/2023 20:19
+D: .git Last modified: 26/05/2023 11:36
+|  D: branches Last modified: 26/05/2023 11:35
+|  F: COMMIT_EDITMSG Last modified: 26/05/2023 11:36
+|  F: config Last modified: 26/05/2023 11:36
+|  F: HEAD Last modified: 26/05/2023 11:35
+|  D: hooks Last modified: 26/05/2023 11:35
+|  F: index Last modified: 26/05/2023 11:36
+|  D: logs Last modified: 26/05/2023 11:36
+|  |  F: HEAD Last modified: 26/05/2023 11:36
+|  |  D: refs Last modified: 26/05/2023 11:35
+|  |  |  D: heads Last modified: 26/05/2023 11:36
+|  |  |  |  F: master Last modified: 26/05/2023 11:36
+|  D: objects Last modified: 26/05/2023 11:36
+|  |  D: 05 Last modified: 26/05/2023 11:36
+|  |  |  F: 2588b711f3199f8c48c4355d118c6eddf6d4a5 Last modified: 26/05/2023 11:36
+|  |  D: 06 Last modified: 26/05/2023 11:36
+|  |  |  F: ead354c25ea8cc4a0453deb3060734a23d429f Last modified: 26/05/2023 11:36
+|  |  D: 0f Last modified: 26/05/2023 11:36
+|  |  |  F: 00a1e40c5cbe96c68d2a4cb7702631bc6f9878 Last modified: 26/05/2023 11:36
+|  |  D: 12 Last modified: 26/05/2023 11:36
+|  |  |  F: 47f9fa4a9abda01786ceb28bf76227b3293e71 Last modified: 26/05/2023 11:36
+|  |  D: 15 Last modified: 26/05/2023 11:36
+|  |  |  F: f946fa23e6e6cfdb7a7eee5aa4c0b8fd0c0581 Last modified: 26/05/2023 11:36
+|  |  D: 18 Last modified: 26/05/2023 11:36
+|  |  |  F: 186b837748c55d4ecec584d5d785c8d8a272df Last modified: 26/05/2023 11:36
+|  |  D: 1d Last modified: 26/05/2023 11:36
+|  |  |  F: 5d2e54edfe073c2be570919c7bd0a7efcee38a Last modified: 26/05/2023 11:36
+|  |  D: 20 Last modified: 26/05/2023 11:36
+|  |  |  F: 4d7eb73aa37e05e3ae70e11f82c9469fa7852a Last modified: 26/05/2023 11:36
+|  |  D: 23 Last modified: 26/05/2023 11:36
+|  |  |  F: 3bff0cfcc6a1a672e2cd6f729f0d5cf4b0bb66 Last modified: 26/05/2023 11:36
+|  |  D: 28 Last modified: 26/05/2023 11:36
+|  |  |  F: d08f44dbdef4a226a26e252c60b0f1f93167de Last modified: 26/05/2023 11:36
+|  |  D: 2d Last modified: 26/05/2023 11:36
+|  |  |  F: deb7b2e64c5a238df7873eb6e9046b84ac7718 Last modified: 26/05/2023 11:36
+|  |  D: 34 Last modified: 26/05/2023 11:36
+|  |  |  F: ad5c23233cb4f008e99b0433271bf674d61588 Last modified: 26/05/2023 11:36
+|  |  D: 39 Last modified: 26/05/2023 11:36
+|  |  |  F: eba78aafdfdd58e8d1d99eccf98e736b567b70 Last modified: 26/05/2023 11:36
+|  |  D: 4f Last modified: 26/05/2023 11:36
+|  |  |  F: af4fb817944a5f2c0683fb46f94a0832091489 Last modified: 26/05/2023 11:36
+|  |  D: 54 Last modified: 26/05/2023 11:36
+|  |  |  F: c5549c6d0209d45f0a8284001b251ff6ecceba Last modified: 26/05/2023 11:36
+|  |  D: 5a Last modified: 26/05/2023 11:36
+|  |  |  F: 92477ff6cfb0f3fc38023a976c0341bafc5866 Last modified: 26/05/2023 11:36
+|  |  D: 62 Last modified: 26/05/2023 11:36
+|  |  |  F: ac58d8c7479df946cc31d1373ab6f7ba61c69c Last modified: 26/05/2023 11:36
+|  |  D: 6a Last modified: 26/05/2023 11:36
+|  |  |  F: a5ecc088c6b0439538a37cf411b64a7d2244c5 Last modified: 26/05/2023 11:36
+|  |  D: 76 Last modified: 26/05/2023 11:36
+|  |  |  F: ef799e5206204ac05556ef942fa29c8ef58c9d Last modified: 26/05/2023 11:36
+|  |  D: 78 Last modified: 26/05/2023 11:36
+|  |  |  F: af84693e3057a2eb770bfaedf2b696dba72284 Last modified: 26/05/2023 11:36
+|  |  D: 91 Last modified: 26/05/2023 11:36
+|  |  |  F: 4096c452ede90d52818b777953c8a97088dc15 Last modified: 26/05/2023 11:36
+|  |  D: 9d Last modified: 26/05/2023 11:36
+|  |  |  F: a5e7f1d18fc711acca8dcc9ebe63c57227e601 Last modified: 26/05/2023 11:36
+|  |  D: 9e Last modified: 26/05/2023 11:36
+|  |  |  F: dcfdf7d0cb217c46209bd7ad469725e0b702ca Last modified: 26/05/2023 11:36
+|  |  D: a3 Last modified: 26/05/2023 11:36
+|  |  |  F: b98fd01e3e2606b28f8a89cbba2c48092cc951 Last modified: 26/05/2023 11:36
+|  |  D: ab Last modified: 26/05/2023 11:36
+|  |  |  F: 6cc42b1f1e7a75ad56620a7b0e0e3adee70bc6 Last modified: 26/05/2023 11:36
+|  |  D: b0 Last modified: 26/05/2023 11:36
+|  |  |  F: 026a9db7275fb2d963b83b66bad870aa6f9bef Last modified: 26/05/2023 11:36
+|  |  D: b3 Last modified: 26/05/2023 11:36
+|  |  |  F: 41ac6483d40a9f8f99dbc5996d807a9bfa8922 Last modified: 26/05/2023 11:36
+|  |  D: b4 Last modified: 26/05/2023 11:36
+|  |  |  F: a9d77311149fef3d5830a74174192968029eaa Last modified: 26/05/2023 11:36
+|  |  D: b5 Last modified: 26/05/2023 11:36
+|  |  |  F: c378b94bd230c0d9d6055a7d73c4ff82df6692 Last modified: 26/05/2023 11:36
+|  |  D: b8 Last modified: 26/05/2023 11:36
+|  |  |  F: 3d22266ac8aa2f8df2edef68082c789727841d Last modified: 26/05/2023 11:36
+|  |  D: cd Last modified: 26/05/2023 11:36
+|  |  |  F: 279b937fc6d89e1bfc74bd31b9c94974269a2b Last modified: 26/05/2023 11:36
+|  |  D: d7 Last modified: 26/05/2023 11:36
+|  |  |  F: d95b9d024afe48be3a9b80b8f901d53c3281dd Last modified: 26/05/2023 11:36
+|  |  D: e0 Last modified: 26/05/2023 11:36
+|  |  |  F: 74e11f8c846e4707baaf73b62b6ea8d4442697 Last modified: 26/05/2023 11:36
+|  |  D: e6 Last modified: 26/05/2023 11:36
+|  |  |  F: 412a7757aa5a51b5fabe8d489d29626a7ab034 Last modified: 26/05/2023 11:36
+|  |  |  F: 9de29bb2d1d6434b8b29ae775ad8c2e48c5391 Last modified: 26/05/2023 11:36
+|  |  D: e8 Last modified: 26/05/2023 11:36
+|  |  |  F: 9ac81877027756498a6435b3f4ecd9f5180256 Last modified: 26/05/2023 11:36
+|  |  D: ec Last modified: 26/05/2023 11:36
+|  |  |  F: 891272a7a25f231eb9aba7e43a24991b5c1bd7 Last modified: 26/05/2023 11:36
+|  |  D: ef Last modified: 26/05/2023 11:36
+|  |  |  F: 9ef064b6d3532e1d1e51549adad4e7609f94ea Last modified: 26/05/2023 11:36
+|  |  D: f8 Last modified: 26/05/2023 11:36
+|  |  |  F: 97a7f1cb2389f85fe6381425d29f0a9866fb65 Last modified: 26/05/2023 11:36
+|  |  D: f9 Last modified: 26/05/2023 11:36
+|  |  |  F: fe34593fcd3624a964478aeb438b0d44fe7237 Last modified: 26/05/2023 11:36
+|  |  D: fe Last modified: 26/05/2023 11:36
+|  |  |  F: 804f3d62cfa396954a164573ecd4756442e76b Last modified: 26/05/2023 11:36
+|  |  D: info Last modified: 26/05/2023 11:35
+|  |  D: pack Last modified: 26/05/2023 11:35
+|  D: refs Last modified: 26/05/2023 11:35
+|  |  D: heads Last modified: 26/05/2023 11:36
+|  |  |  F: master Last modified: 26/05/2023 11:36
+|  |  D: tags Last modified: 26/05/2023 11:35
+F: .gitignore Last modified: 26/05/2023 11:35
+F: .project Last modified: 24/05/2023 20:19
+D: .settings Last modified: 25/05/2023 22:16
+|  F: org.eclipse.core.resources.prefs Last modified: 24/05/2023 20:19
+|  F: org.eclipse.jdt.core.prefs Last modified: 24/05/2023 20:19
+|  F: org.eclipse.m2e.core.prefs Last modified: 24/05/2023 20:19
+F: config.properties Last modified: 26/05/2023 12:49
+F: pom.xml Last modified: 26/05/2023 12:16
+D: src Last modified: 26/05/2023 00:09
+|  D: main Last modified: 25/05/2023 22:16
+|  |  D: java Last modified: 26/05/2023 11:20
+|  |  |  D: n1exercici1 Last modified: 25/05/2023 22:17
+|  |  |  |  F: App.class Last modified: 25/05/2023 20:47
+|  |  |  |  F: App.java Last modified: 25/05/2023 20:52
+|  |  |  |  F: ListFiles.class Last modified: 25/05/2023 20:47
+|  |  |  |  F: ListFilesInDirectory.java Last modified: 25/05/2023 20:51
+|  |  |  D: n1exercici2 Last modified: 25/05/2023 22:17
+|  |  |  |  F: App.class Last modified: 25/05/2023 20:53
+|  |  |  |  F: App.java Last modified: 25/05/2023 20:53
+|  |  |  |  F: ListFilesInDirectory.class Last modified: 25/05/2023 20:53
+|  |  |  |  F: ListFilesInDirectory.java Last modified: 25/05/2023 20:52
+|  |  |  D: n1exercici3 Last modified: 25/05/2023 23:05
+|  |  |  |  F: App.java Last modified: 25/05/2023 23:05
+|  |  |  |  F: ListFilesInDirectory.java Last modified: 25/05/2023 23:05
+|  |  |  D: n1exercici4 Last modified: 25/05/2023 23:04
+|  |  |  |  F: App.java Last modified: 25/05/2023 23:04
+|  |  |  |  F: Input.java Last modified: 25/05/2023 23:04
+|  |  |  |  F: ListFilesInDirectory.java Last modified: 25/05/2023 23:04
+|  |  |  D: n1exercici5 Last modified: 25/05/2023 23:57
+|  |  |  |  F: App.java Last modified: 26/05/2023 11:21
+|  |  |  |  F: Customer.java Last modified: 26/05/2023 00:14
+|  |  |  |  F: Input.java Last modified: 25/05/2023 23:56
+|  |  |  |  F: ListFilesInDirectory.java Last modified: 26/05/2023 00:13
+|  |  |  D: n2exercici1 Last modified: 26/05/2023 11:21
+|  |  |  |  F: App.java Last modified: 26/05/2023 12:48
+|  |  |  |  F: ListFilesInDirectory.java Last modified: 26/05/2023 11:21
+|  D: test Last modified: 25/05/2023 22:17
+|  |  D: java Last modified: 24/05/2023 20:19
+D: target Last modified: 25/05/2023 22:17
+|  D: classes Last modified: 26/05/2023 12:18
+|  |  D: META-INF Last modified: 26/05/2023 12:18
+|  |  |  F: MANIFEST.MF Last modified: 26/05/2023 12:18
+|  |  |  D: maven Last modified: 26/05/2023 12:18
+|  |  |  |  D: jmaster Last modified: 26/05/2023 12:18
+|  |  |  |  |  D: S1.05 Last modified: 26/05/2023 12:18
+|  |  |  |  |  |  F: pom.properties Last modified: 26/05/2023 12:18
+|  |  |  |  |  |  F: pom.xml Last modified: 26/05/2023 12:18
+|  |  D: n1exercici1 Last modified: 26/05/2023 12:16
+|  |  |  F: App.class Last modified: 26/05/2023 12:16
+|  |  |  F: ListFilesInDirectory.class Last modified: 26/05/2023 12:16
+|  |  D: n1exercici2 Last modified: 26/05/2023 12:16
+|  |  |  F: App.class Last modified: 26/05/2023 12:16
+|  |  |  F: ListFilesInDirectory.class Last modified: 26/05/2023 12:16
+|  |  D: n1exercici3 Last modified: 26/05/2023 12:16
+|  |  |  F: App.class Last modified: 26/05/2023 12:16
+|  |  |  F: ListFilesInDirectory.class Last modified: 26/05/2023 12:16
+|  |  D: n1exercici4 Last modified: 26/05/2023 12:16
+|  |  |  F: App.class Last modified: 26/05/2023 12:16
+|  |  |  F: Input.class Last modified: 26/05/2023 12:16
+|  |  |  F: ListFilesInDirectory.class Last modified: 26/05/2023 12:16
+|  |  D: n1exercici5 Last modified: 26/05/2023 12:16
+|  |  |  F: App.class Last modified: 26/05/2023 12:16
+|  |  |  F: Customer.class Last modified: 26/05/2023 12:16
+|  |  |  F: Input.class Last modified: 26/05/2023 12:16
+|  |  |  F: ListFilesInDirectory.class Last modified: 26/05/2023 12:16
+|  |  D: n2exercici1 Last modified: 26/05/2023 12:16
+|  |  |  F: App.class Last modified: 26/05/2023 12:48
+|  |  |  F: ListFilesInDirectory.class Last modified: 26/05/2023 12:16
+|  D: test-classes Last modified: 24/05/2023 20:19
