@@ -9,6 +9,12 @@ import java.text.SimpleDateFormat;
 
 public class ListFilesInDirectory {
 	
+	private static String text;
+	
+	public static String getText() {
+		return text;
+	}
+	
 	public static void listDirectoryFilesRecursive(String path, int level, File targetFile) throws IOException{
 		
 		File directory = new File(path);
@@ -23,9 +29,11 @@ public class ListFilesInDirectory {
 				String indentation = getIndentation(level);
 				
 				if(file.isDirectory()) {
+					text += indentation+"D: "+file.getName()+" Last modified: "+dateFormat.format(file.lastModified())+"\n";
 					FileUtils.write(targetFile, indentation+"D: "+file.getName()+" Last modified: "+dateFormat.format(file.lastModified())+"\n", "UTF-8", true);
 					listDirectoryFilesRecursive(file.getAbsolutePath(), level+1, targetFile);
 				}else if(file.isFile()){
+					text +=indentation+"F: "+file.getName()+" Last modified: "+dateFormat.format(file.lastModified())+"\n";
 					FileUtils.write(targetFile, indentation+"F: "+file.getName()+" Last modified: "+dateFormat.format(file.lastModified())+"\n", "UTF-8", true);
 					readTXTFile(file);
 				}

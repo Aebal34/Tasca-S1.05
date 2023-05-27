@@ -14,5 +14,22 @@ public class App {
 		}catch(IOException e) {
 			System.out.println("Ha ocurrido un error IO.");
 		}
+		
+		try {
+			CryptoFiles.encryptFile(path, textFile, ListFilesInDirectory.getText());
+			System.out.println("Content succesfully encrypted.");
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+		File decryptedFile = new File(path+"\\directoriesD.txt");
+		try {
+			CryptoFiles.decryptFile(path, textFile, decryptedFile);
+			System.out.println("Content succesfully decrypted.");
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 	}
 }
