@@ -62,11 +62,14 @@ public class CryptoFiles {
 	
 	public static void decryptFile(String path, File encryptedFile, File targetfile) throws Exception {
 		
+		//Load key from file
 		String keyPath = path + "\\key.txt";
 		SecretKey secretKey = loadKeyFromFile(keyPath);
 		
+		//Instantiate cipher
 		Cipher cipher = Cipher.getInstance(AES_ALGORITHM + "/" + ENCRYPTION_MODE + "/" + PADDING_SCHEME);
 		
+		//Load IV from file
 		String ivPath = path + "\\iv.txt";
 		IvParameterSpec iv = loadIvFromFile(ivPath);
 		
@@ -95,9 +98,8 @@ public class CryptoFiles {
 	private static void saveIvToFile(IvParameterSpec iv, String ivPath) throws IOException {
 		
 		byte[] ivBytes = iv.getIV();
-		File ivFile = new File(ivPath);
 		
-		FileUtils.writeByteArrayToFile(ivFile, ivBytes);
+		FileUtils.writeByteArrayToFile(new File(ivPath), ivBytes);
 	}
 	
 	public static IvParameterSpec loadIvFromFile(String ivPath) throws IOException {

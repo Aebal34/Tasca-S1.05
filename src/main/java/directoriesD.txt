@@ -1,0 +1,49 @@
+nullF: 12345678Ñ.ser Last modified: 28/05/2023 12:13
+F: config.properties Last modified: 29/05/2023 00:56
+D: n1exercici1 Last modified: 28/05/2023 23:26
+|  F: App.class Last modified: 28/05/2023 11:26
+|  F: App.java Last modified: 25/05/2023 20:52
+|  F: ListFiles.class Last modified: 25/05/2023 20:47
+|  F: ListFilesInDirectory.class Last modified: 28/05/2023 11:26
+|  F: ListFilesInDirectory.java Last modified: 25/05/2023 20:51
+D: n1exercici2 Last modified: 28/05/2023 23:26
+|  F: App.class Last modified: 28/05/2023 11:33
+|  F: App.java Last modified: 25/05/2023 20:53
+|  F: ListFilesInDirectory.class Last modified: 28/05/2023 11:33
+|  F: ListFilesInDirectory.java Last modified: 25/05/2023 20:52
+D: n1exercici3 Last modified: 28/05/2023 23:26
+|  F: App.class Last modified: 28/05/2023 11:55
+|  F: App.java Last modified: 28/05/2023 11:50
+|  F: ListFilesInDirectory.class Last modified: 28/05/2023 11:55
+|  F: ListFilesInDirectory.java Last modified: 25/05/2023 23:05
+D: n1exercici4 Last modified: 28/05/2023 23:26
+|  F: App.class Last modified: 28/05/2023 12:01
+|  F: App.java Last modified: 25/05/2023 23:04
+|  F: Input.class Last modified: 28/05/2023 12:01
+|  F: Input.java Last modified: 25/05/2023 23:04
+|  F: ListFilesInDirectory.class Last modified: 28/05/2023 12:01
+|  F: ListFilesInDirectory.java Last modified: 25/05/2023 23:04
+D: n1exercici5 Last modified: 28/05/2023 23:26
+|  F: App.class Last modified: 28/05/2023 12:13
+|  F: App.java Last modified: 26/05/2023 11:21
+|  F: Customer.class Last modified: 28/05/2023 12:13
+|  F: Customer.java Last modified: 26/05/2023 00:14
+|  F: Input.class Last modified: 28/05/2023 12:13
+|  F: Input.java Last modified: 25/05/2023 23:56
+|  F: ListFilesInDirectory.class Last modified: 28/05/2023 12:13
+|  F: ListFilesInDirectory.java Last modified: 28/05/2023 12:06
+D: n2exercici1 Last modified: 29/05/2023 01:14
+|  F: App.class Last modified: 29/05/2023 01:14
+|  F: App.java Last modified: 29/05/2023 01:13
+|  F: directories.txt Last modified: 29/05/2023 01:14
+|  F: ListFilesInDirectory.class Last modified: 29/05/2023 01:14
+|  F: ListFilesInDirectory.java Last modified: 26/05/2023 11:21
+D: n3exercici1 Last modified: 29/05/2023 11:53
+|  F: App.class Last modified: 29/05/2023 11:53
+|  F: App.java Last modified: 28/05/2023 00:33
+|  F: CryptoFiles.class Last modified: 29/05/2023 11:53
+|  F: CryptoFiles.java Last modified: 29/05/2023 11:42
+|  F: Input.class Last modified: 29/05/2023 11:53
+|  F: Input.java Last modified: 27/05/2023 11:31
+|  F: ListFilesInDirectory.class Last modified: 29/05/2023 11:53
+|  F: ListFilesInDirectory.java Last modified: 27/05/2023 11:58

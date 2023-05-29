@@ -62,6 +62,7 @@ public class ListFilesInDirectory {
 		
 		output.writeObject(object);
 		output.close();
+		fos.close();
 	}
 	public static Customer readCustomer(String path) throws IOException, ClassNotFoundException {
 		
@@ -71,6 +72,7 @@ public class ListFilesInDirectory {
 		
 		customer1 = (Customer)input.readObject();
 		input.close();
+		fos.close();
 		return customer1;
 	}
 }

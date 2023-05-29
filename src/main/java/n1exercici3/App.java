@@ -11,6 +11,7 @@ public class App {
 		
 		try {
 			ListFilesInDirectory.listDirectoryFilesRecursive(path, 0, textFile);
+			System.out.println("Archivo guardado con exito");
 		}catch(IOException e) {
 			System.out.println("Ha ocurrido un error IO.");
 		}

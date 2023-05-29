@@ -1,37 +1,28 @@
 package n2exercici1;
 
 import java.io.*;
-import org.apache.commons.configuration2.*;
-import org.apache.commons.configuration2.builder.FileBasedConfigurationBuilder;
-import org.apache.commons.configuration2.builder.fluent.*;
-
-import org.apache.commons.configuration2.ex.ConfigurationException;
+import java.util.*;
 
 
 
 public class App {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws IOException {
 		
-		FileBasedConfiguration config = null;
-		Parameters params = new Parameters();
-		FileBasedConfigurationBuilder<PropertiesConfiguration> builder = 
-				new FileBasedConfigurationBuilder<PropertiesConfiguration>(PropertiesConfiguration.class)
-				.configure(params.properties()
-						.setFileName("config.properties")
-						.setBasePath(System.getProperty("user.dir")));
+		Properties properties = new Properties();
+        try{
+        	InputStream input = new FileInputStream("D:\\eclipse-workspace\\S1.05\\config.properties");
+            properties.load(input);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
 		
-		try {
-			config = builder.getConfiguration();
-			System.out.println("No ha pillado exception!");
-		} catch (ConfigurationException e) {
-			e.getMessage();
-			System.out.println("Ha pillado exception!");
-		}
+		String path = properties.getProperty("directoryPath");
+
+		File textFile = new File(path, properties.getProperty("fileName"));
 		
-		String path = (String) config.getProperty("directoryPath");
-		File textFile = new File(path+(String)config.getProperty("fileName"));
-		
+
+
 		try {
 			ListFilesInDirectory.listDirectoryFilesRecursive(path, 0, textFile);
 		}catch(IOException e) {
